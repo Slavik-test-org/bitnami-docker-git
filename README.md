@@ -1,6 +1,7 @@
 # Git packaged by Bitnami
 
 ## What is Git?
+slavik
 
 > Git is an open source distributed version control system that can handle both small and large projects with speed and efficiency.
 
